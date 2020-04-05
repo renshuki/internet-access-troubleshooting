@@ -18,7 +18,7 @@ Socket: AMD AM4 Socket Ryzen™ 2000 and 3000 Series
 
 ### RAM
 
-Name: [G.SKILL F4-3600C19D-16GSXWB (DDR4 PC4-28800 8GB 2枚組)](https://www.gskill.com/product/165/169/1536046032/F4-3600C19D-16GSXWB)
+Name: [G.SKILL F4-3600C19D-16GSXWB (DDR4 PC4-28800 8GB 2枚組)](https://www.gskill.com/product/165/169/1536046032/F4-3600C19D-16GSXWB) (Rank 217 - update 2020/04/05)
 
 ### SSD
 
