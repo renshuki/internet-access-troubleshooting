@@ -11,13 +11,12 @@ Name: [AMD Ryzen™ 5 3600](https://www.amd.com/en/products/cpu/amd-ryzen-5-3600
 
 Name: [GIGABYTE GeForce GTX 650 Ti OC](https://www.gigabyte.com/Graphics-Card/GV-N105TWF2OC-4GD#kf) (Rank 323 - update 2020/04/05)
 
-
-## Motherboard
+### Motherboard
 
 Name: [X570 Phantom Gaming 4](https://www.asrock.com/MB/AMD/X570%20Phantom%20Gaming%204/index.asp)  
 Socket: AMD AM4 Socket Ryzen™ 2000 and 3000 Series
 
-## RAM
+### RAM
 
 Name: [G.SKILL F4-3600C19D-16GSXWB (DDR4 PC4-28800 8GB 2枚組)](https://www.gskill.com/product/165/169/1536046032/F4-3600C19D-16GSXWB)
 
