@@ -5,7 +5,7 @@
 
 ### CPU
 
-Name: [AMD Ryzen™ 5 3600](https://www.amd.com/en/products/cpu/amd-ryzen-5-3600)
+Name: [AMD Ryzen™ 5 3600](https://www.amd.com/en/products/cpu/amd-ryzen-5-3600) (Rank: 107 - update 2020/04/05)
 
 ### GPU
 
