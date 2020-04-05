@@ -1,4 +1,4 @@
-# Internet Access & Connection Troubleshooting
+# Internet Access / Connection Troubleshooting
 
 ## Provider Specs (eo光ネット)
 
