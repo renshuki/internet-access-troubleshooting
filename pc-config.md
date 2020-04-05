@@ -1,6 +1,45 @@
 # PC Config
 
 <details>
+    <summary>2020/04/05</summary>
+
+### CPU
+
+Name: [AMD Ryzen™ 5 3600](https://www.amd.com/en/products/cpu/amd-ryzen-5-3600)
+
+### GPU
+
+Name: [GIGABYTE GeForce GTX 650 Ti OC](https://www.gigabyte.com/Graphics-Card/GV-N105TWF2OC-4GD#kf) (Rank 323 - update 2020/04/05)
+
+
+## Motherboard
+
+Name: [X570 Phantom Gaming 4](https://www.asrock.com/MB/AMD/X570%20Phantom%20Gaming%204/index.asp)  
+Socket: AMD AM4 Socket Ryzen™ 2000 and 3000 Series
+
+## RAM
+
+Name: [G.SKILL F4-3600C19D-16GSXWB (DDR4 PC4-28800 8GB 2枚組)](https://www.gskill.com/product/165/169/1536046032/F4-3600C19D-16GSXWB)
+
+### SSD
+
+Name: [Intel SSD 520 Series 120GB SATA6Gb/s (MLC)](https://ark.intel.com/content/www/us/en/ark/products/66248/intel-ssd-520-series-120gb-2-5in-sata-6gb-s-25nm-mlc.html)
+
+### HDD
+
+Name: [Seagate Barracuda ST1000DM010 1TB 7200 RPM 64MB Cache SATA 6.0Gb/s 3.5"](https://hdd.userbenchmark.com/Seagate-Barracuda-1TB-2016/Rating/3896)
+
+### Power Supply
+
+Name: [Antec NeoECO 650C NE650C 650W ATX12V 80 PLUS BRONZE](https://antec.com/product/power/ne650c.php)
+
+### Case
+
+Name: [Corsair Carbide 300R](https://www.corsair.com/us/en/Categories/Products/Cases/Carbide-Series%E2%84%A2-300R-Compact-PC-Gaming-Case/p/CC-9011014-WW)
+
+</details>
+
+<details>
     <summary>2013/01/15</summary>
 
 ### CPU
